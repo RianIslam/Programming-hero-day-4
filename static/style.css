@@ -49,3 +49,28 @@ background-position: right;
     background-position: left;
     background-repeat: no-repeat;
 }
+.singel__experience{
+    box-shadow: 10px 10px 40px gray;
+    border-radius: 5px;
+    height: 80%;
+}
+.experience__area{
+    background-image: url("../img/exp-bg.png");
+    background-position: left;
+    background-repeat: no-repeat;
+}
+#full__stack{
+    border-left: 7px solid;
+    border-image: linear-gradient(180deg,lightsalmon,tomato);
+    border-image-slice: 1;
+}
+
+#baby__web{
+    border-left: 7px solid;
+    border-image: linear-gradient(180deg,blue,cyan);
+    border-image-slice: 1;
+}
+footer p{
+    text-align: center;
+    font-size: 12px;
+}
